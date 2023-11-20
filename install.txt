@@ -1,0 +1,5 @@
+npm install
+
+put your keys in the .env file then rename it .env from .env.template
+
+then npm run dev / npm run build
